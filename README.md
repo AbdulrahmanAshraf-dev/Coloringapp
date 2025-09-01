@@ -45,8 +45,11 @@ Clean Material Design interface with responsive performance.
 | Home Screen               | Coloring Page                 | Saved Artwork              |
 | ------------------------- | ----------------------------- | -------------------------- |
 | ![](![photo_2025-09-01_17-14-57](https://github.com/user-attachments/assets/19093bcf-f09b-4070-b1bc-bf0176d45a7e)
-) | ![]![photo_2025-09-01_17-14-55](https://github.com/user-attachments/assets/3415d7bc-1674-4d3e-b286-a3af20c1e478)
-() | !![photo_2025-09-01_17-14-54](https://github.com/user-attachments/assets/30b200f8-e693-45f3-b925-6b9021169be6)
+) |
+
+![](![photo_2025-09-01_17-14-55](https://github.com/user-attachments/assets/3415d7bc-1674-4d3e-b286-a3af20c1e478)
+)) |
+!![](![photo_2025-09-01_17-14-54](https://github.com/user-attachments/assets/30b200f8-e693-45f3-b925-6b9021169be6))
 [](![photo_2025-09-01_17-14-52](https://github.com/user-attachments/assets/46239e4c-c43b-418b-9a1d-9d3a97b38b4b)
 )![photo_2025-09-01_17-14-51](https://github.com/user-attachments/assets/6f9c5995-b555-4009-a5dc-fccf18fd6b2d)
  |
